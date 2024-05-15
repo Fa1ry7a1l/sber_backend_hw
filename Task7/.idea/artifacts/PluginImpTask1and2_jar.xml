@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginImpTask1and2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PluginImpTask1and2_jar</output-path>
+    <root id="archive" name="PluginImpTask1and2.jar">
+      <element id="module-output" name="PluginImpTask1and2" />
+      <element id="module-output" name="pluginApiTask1and2" />
+    </root>
+  </artifact>
+</component>

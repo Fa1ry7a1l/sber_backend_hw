@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EncryptedClassLoader/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EncryptedClassLoader/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PluginImpTask1and2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PluginImpTask1and2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/arena/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/arena/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/player/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/player/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginApi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginApiTask1and2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginApiTask1and2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginImplTask1and2V2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginImplTask1and2V2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginManager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pluginManager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
